@@ -1,0 +1,13 @@
+ALL REPORTS
+# of tickets *
+first_resolution_time_in_minutes_within_business_hours *
+full_resolution_time_in_minutes_within_business_hours *
+first_reply_time_in_minutes
+first_reply_time_in_minutes_within_business_hours *
+agent_wait_time_in_minutes_within_business_hours ?
+on_hold_time_in_minutes_within_business_hours ?
+# of closed tickets *
+success/closed ratio *
+
+SOME REPORTS
+satisfaction_score *

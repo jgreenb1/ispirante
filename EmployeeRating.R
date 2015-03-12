@@ -6,7 +6,7 @@ setwd("C:/Users/Jon.INCUBET/Desktop/")
 today<-as.Date(substr(Sys.time(),0,10))
 
 ###### Loading data
-data<-read.csv("s1.csv")
+data<-read.csv("s3.csv")
 
 ## Min Tix Variable
 min_tix<-10
@@ -73,6 +73,7 @@ dev.off()
 2) Make a list of other variables that MIGHT be in reports
 3) Fix things for the variables in all reports
 4) Do examples for two samples with different variables (make sure flexible)
+5) Deal with plotting a certain number of rows at a time
 
 
 
